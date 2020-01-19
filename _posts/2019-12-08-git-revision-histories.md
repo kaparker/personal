@@ -1,9 +1,9 @@
 ---
 layout: posts
-title:  "GitHub revision histories"
+title:  "Git revision histories"
 date:   2019-12-08 09:00:00 +0100
 categories: [article]
-tags: [github]
+tags: [git]
 backgroundurl: https://images.unsplash.com/photo-1556075798-4825dfaaf498
 time: 1 min
 lang: en
