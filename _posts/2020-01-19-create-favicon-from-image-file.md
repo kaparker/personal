@@ -10,6 +10,8 @@ lang: en
 description: Quick tips to create a favicon for your website from an image file on a mac.
 ---
 
+Photo by [Harpal Singh](https://unsplash.com/@aquatium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/icon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+<br><br>
 When trying to create a favicon for my personal website I searched through a range of website to find a suitable way to do this and thought I'd add this tip here to make it easier to do again in the future. 
 <br><br>
 Whilst there are tools online that easily convert your image to a favicon, it's nice to be able to do the conversion locally, especially as the initial image I was trying to convert is my profile picture and I don't feel entirely comfortable uploading this to a random website!
