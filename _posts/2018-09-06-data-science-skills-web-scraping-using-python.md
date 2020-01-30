@@ -75,7 +75,7 @@ The first step is to import the libraries that you will be using for your web sc
 The next step is to define the url that you are scraping. As discussed in the previous section, this webpage presents all results on one page so the full url as in the address bar is given here.
 
     # specify the url
-    urlpage =  '[http://www.fasttrack.co.uk/league-tables/tech-track-100/league-table/'](http://www.fasttrack.co.uk/league-tables/tech-track-100/league-table/')
+    urlpage =  'http://www.fasttrack.co.uk/league-tables/tech-track-100/league-table/'
 
 We then make the connection to the webpage and we can parse the html using BeautifulSoup, storing the object in the variable ‘soup’.
 
@@ -118,7 +118,7 @@ Printing the first 2 rows in the soup object, we can see that the structure of e
     </tr>
     <tr>
     <td>1</td>
-    <td><a href="[http://www.fasttrack.co.uk/company_profile/wonderbly-3/](http://www.fasttrack.co.uk/company_profile/wonderbly-3/)"><span class="company-name">Wonderbly</span></a>Personalised children's books</td>
+    <td><a href="http://www.fasttrack.co.uk/company_profile/wonderbly-3/"><span class="company-name">Wonderbly</span></a>Personalised children's books</td>
     <td>East London</td>
     <td>Apr-17</td>
     <td style="text-align:right;">294.27%</td>
@@ -184,7 +184,7 @@ If we print out the variable company, the text not only contains the name of the
 
 We would like to split company into the company name and the description which we can do in a few lines of code. Looking again at the html, for this column there is a <span> element that contains only the company name. There is also a link in this column to another page on the website that has more detailed information about the company. We will be using this a little later!
 
-    <td><a href="[http://www.fasttrack.co.uk/company_profile/wonderbly-3/](http://www.fasttrack.co.uk/company_profile/wonderbly-3/)"><span class="company-name">Wonderbly</span></a>Personalised children's books</td>
+    <td><a href="http://www.fasttrack.co.uk/company_profile/wonderbly-3/"><span class="company-name">Wonderbly</span></a>Personalised children's books</td>
 
 To separate company into two fields, we can use thefind method to save the <span> element and then use either strip or replace to remove the company name from the company variable, so that it leaves only the description. 
 To remove the unwanted characters from sales, we can again usestrip and replace methods!

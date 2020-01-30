@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "How to create a favicon from an image file on mac"
+title:  "Create a favicon from an image file"
 date:   2020-01-19 22:00:00 +0100
 categories: [article]
 tags: [web development] 

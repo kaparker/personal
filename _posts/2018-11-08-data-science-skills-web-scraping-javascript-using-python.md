@@ -101,7 +101,7 @@ As a first step, you might try using BeautifulSoup to extract this information u
     from bs4 import BeautifulSoup
 
     # specify the url
-    urlpage = '[https://groceries.asda.com/search/yogurt'](https://groceries.asda.com/search/yoghurt') 
+    urlpage = 'https://groceries.asda.com/search/yogurt'
     print(urlpage)
     # query the website and return the html to the variable 'page'
     page = urllib.request.urlopen(urlpage)
@@ -117,7 +117,7 @@ As a first step, you might try using BeautifulSoup to extract this information u
 
 Unexpectedly, when running the python script, the number of results returned is 0 even though I see many results on the web page!
 
-    [https://groceries.asda.com/search/yoghurt](https://groceries.asda.com/search/yoghurt)
+    https://groceries.asda.com/search/yoghurt
     BeautifulSoup - Number of results 0
 
 When further inspecting the page, there are many dynamic features on the web page which suggests that javascript is used to present these results. 
@@ -139,7 +139,7 @@ The first approach to scrape this webpage is to use Selenium web driver to call 
         import pandas as pd
 
         # specify the url
-        urlpage = '[https://groceries.asda.com/search/yogurt'](https://groceries.asda.com/search/yoghurt') 
+        urlpage = 'https://groceries.asda.com/search/yogurt'
         print(urlpage)
         # run firefox webdriver from executable path of your choice
         driver = webdriver.Firefox(executable_path = 'your/directory/of/choice')
@@ -171,8 +171,7 @@ The first approach to scrape this webpage is to use Selenium web driver to call 
         # find elements by xpath
 
         # at time of publication, Nov 2018:
-        # results = driver.find_elements_by_xpath("//*[[@id](http://twitter.com/id)='componentsContainer']//*[contains([@id](http://twitter.com/id),'listingsContainer')]//*[[@class](http://twitter.com/class)='product active']//*[[@class](http://twitter.com/class)='title productTitle']")
-
+        # results = driver.find_elements_by_xpath("//*[@id='componentsContainer']//*[contains(@id,'listingsContainer')]//*[@class='product active']//*[@class='title productTitle']")
         # updated Nov 2019:
         results = driver.find_elements_by_xpath("//*[@class=' co-product-list__main-cntr']//*[@class=' co-item ']//*[@class='co-product']//*[@class='co-item__title-container']//*[@class='co-product__title']")
         print('Number of results', len(results))
@@ -265,7 +264,7 @@ The JSON response can be made more readable by adding a few parameters for inden
     import json
 
     # request url
-    urlreq = '[https://groceries.asda.com/api/items/search?keyword=yogurt'](https://groceries.asda.com/api/items/search?keyword=yogurt')
+    urlreq = 'https://groceries.asda.com/api/items/search?keyword=yogurt'
 
     # get response
     response = urllib.request.urlopen(urlreq)

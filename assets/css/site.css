@@ -33,7 +33,7 @@ svg {
 }
 
 .markdown code {
-  @apply break-words whitespace-pre-wrap;
+  @apply bg-gray-200 font-mono text-base p-1;
 }
 
 .markdown pre {
@@ -41,7 +41,7 @@ svg {
 }
 
 .markdown pre code {
-  @apply block bg-transparent p-0 overflow-visible rounded-none;
+  @apply block bg-transparent p-0 overflow-x-scroll rounded-none;
 }
 
 .markdown a {
