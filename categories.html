@@ -4,12 +4,17 @@ permalink: /categories/
 title: Categories
 ---
 
-<div class="flex flex-wrap p-8">
+<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal">
+    <h1 class="font-bold break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl">Categories</h1>
+    <p class="py-6">View articles by category!  
+    </p>
+</div>
+
+<div class="flex flex-wrap">
     <!--Container-->
     <div class="container px-4 md:px-0 mx-auto">
         <div class="mx-0 sm:mx-6">
             <div class="w-full text-xl md:text-2xl text-gray-800 leading-normal rounded-t">
-                <h1 class="mx-auto text-gray-800 mb-6 text-center">Categories</h1>
                 {% for category in site.categories %}
                 <div class="p-2 mb-6">
                     {% capture category_name %}{{ category | first }}{% endcapture %}
