@@ -23,24 +23,21 @@ Here are my top takeaways from my recent job hunting!
 <br><br>
 
 # 1. Find a CV buddy
-<br><br>
+
 Updating my CV can sometimes delay me when applying for jobs as it's such a daunting task, I tend to put it off. On top of that, I often find myself getting stuck when trying to recall projects I've worked on and highlighting relevant details for the role I'm applying for - I'm too much of a perfectionist. This time, however, I found myself a CV buddy - a friend who was also looking to update their CV. Over several video calls, we took turns going through our CVs, providing feedback to each other and the process of talking out loud helped to clarify important details. It certainly helped that they were also looking for Data roles so knew the types of skills and experience that would be applicable, but the most valuable part of teaming up was when explaining what we did in each role and having the other person summarise and pull out the relevant points! By discussing my work and being prompted by questions, I was reminded of substantially more details and was able to reword sections more succinctly. It was an iterative process over a few weeks where we would take our notes away, work to improve and come back together to further refine and we both came away with CVs that we were proud of.
 <br><br>
 
 # 2. Start with shared resources
-<br><br>
 
 In a few of the application processes, the recruiter provided links to resources that would be helpful when preparing for the interview. I briefly looked through these and spent time on the ones I considered most relevant, however in one case, I left a 1.5 hour YouTube video until later in the preparation as it felt overwhelming how long it was alongside many other resources that had been sent and I had collected myself. When I eventually got around to watching it, the content was incredibly useful and I regretted not watching it sooner!
 <br><br>
 
 # 3. Research the company and job interview process
-<br><br>
 
 It is also worth checking out Glassdoor as many people share their interview experience and the types of questions that they were asked in the interview. I made note of many of these questions to make sure that I was able to answer them, and also these came in handy when practising answering questions out loud. There are also many articles on Medium where people have shared their preparation for Data Science interviews, or with specific companies. My list of resources that I wanted to work through was way longer than the time I had to prepare so required some prioritisation. As mentioned above, in hindsight I should have started with the resources shared by the recruiter but I spent more time on the more technical-focused articles and tutorials to ensure I was up to scratch with those skills which, due to the level of detail and understanding required, was very time intensive! 
 <br><br>
 
 # 4. Break it down
-<br><br>
 
 If, like me, you are preparing for several interviews in parallel, it can be useful to break down the interviews by topic, time required and memory retention. For example, if you have two interviews, both of which will be assessing your coding skills and a case study and one of them also has a behavioural interview, then it may be worth leaving the behavioural practice until last since you may wish to prepare some situations as examples that may come up. I find these types of questions are best to practice a day or two before the interview so that they are fresh in your memory.
 <br><br>
@@ -52,7 +49,6 @@ The case study, for me, was quite a new concept in an interview so required some
 <br><br>
 
 # 5. Find out more
-<br><br>
 
 Throughout the recruitment process, I was able to talk to people within the company to ask questions about working for the company and was even offered a chat with someone about interview preparation. I'm not sure if this is usual as I've never come across it before but running through a practice interview question and being told what the interviewers would be looking for was incredibly helpful! After having several interviews though, each one was good preparation for the next since the types of questions and interview techniques were similar.
 <br><br>
@@ -61,7 +57,6 @@ Another good tip would be to use your network, whether getting in touch with a c
 <br><br>
 
 # 6. Interview practice questions
-<br><br>
 
 Here are a few resources I found useful when preparing for different types of interviews:
 <br><br>
@@ -88,7 +83,6 @@ Be realistic with the preparation time, the foundation of knowledge you already 
 <br><br>
 
 # 7. Practice
-<br><br>
 
 As when writing your CV, it can be helpful to work together when preparing for job interviews. If your buddy is applying for a similar type of role, why not practice some of the technical questions together - perhaps choose a topic and ask each other interview-style questions or run through a case study and each prepare your answers - you'd be surprised how much you could learn from each other!
 <br><br>
@@ -100,7 +94,6 @@ It is also great to have your job-hunting buddies for support when you have inte
 <br><br>
 
 # 8. Growth mindset
-<br><br>
 
 Regardless of the outcome of the interview, the time that you have spent researching and learning is helping you to grow! You may not find a suitable role this time but taking the time to reflect on your interview experience, what you have learnt, and requesting feedback from the interviewers will ultimately help you on the path to landing your next role!
 <br><br>
