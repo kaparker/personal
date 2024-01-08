@@ -4,10 +4,10 @@ title:  "8 takeaways from Data Science interviews"
 date:   2021-08-01 09:00:00 +0100
 categories: [promoted, article, featured]
 tags: [data science, interviews, job applications]
-backgroundurl: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-time: 10 min
+backgroundurl: https://miro.medium.com/v2/resize:fit:2000/format:webp/1*ssSWE0E-4_9aIeHlreFRGg.jpeg
+time: 8 min
 lang: en
-description: Applying for jobs can be a time-consuming process, in this article I've pulled together some things that I've learnt during my recent job application process.
+description: Applying for jobs can be a time-consuming process, in this article I've pulled together 8 things that I've learnt during my job application process.
 ---
 
 Applying for jobs can be a time-consuming process, in this article I've pulled together some things that I've learnt during my recent job application process.
@@ -113,4 +113,4 @@ If you enjoyed this article, you can [subscribe to my monthly newsletter](https:
 
 <br>
 
-This article is also on [Medium]().
+This article is also on [Medium](https://medium.com/@_kaparker/8-takeaways-from-data-science-interviews-9945aa3745b3).
