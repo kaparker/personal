@@ -21,11 +21,9 @@
 title: Kerry Parker
 email: info@kaparker.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website and blog of Kerry Parker. I write about data science, software 
-  development and TechNomads. 
+  Personal website and blog of Kerry Parker. I write about all things data!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kaparker.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _kaparker
 github_username:  kaparker
 
 # Build settings
